@@ -2,6 +2,7 @@
   "name": "testapp",
   "version": "0.0.0",
   "scripts": {
+    "start:server": "node server.js",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
